@@ -11,9 +11,7 @@ My name is Mary Mwihaki and I am an aspiring software developer. I enjoy being c
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a Digital Marketing Executive with an interest in Software Development. 
 
-### Technologies I am conversant with 
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png
 
 
 
